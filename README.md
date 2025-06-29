@@ -25,3 +25,13 @@ There are several different types of wireframes that can be created, depending o
 ## Example Wirerame (Airbnb Clone)
 
 The Airbnb clone wireframe is a High-Fidelity wireframe. It includes detailed typography and color schemes, as well as interactive elements such as buttons and forms. The wireframe also includes a clear and intuitive navigation system that allows users to easily find the content they are looking for.
+
+# Wireframing Tools
+
+There are several different tools that can be used to create wireframes, including:
+
+1. Paper and Pencil: This is the most basic and traditional method of creating wireframes. It involves sketching out the layout and structure of the website or application on paper. Example Scenario: A designer might use paper and pencil to create a low-fidelity wireframe for a website.
+
+2. Digital Tools: There are several digital tools available that can be used to create wireframes, including software such as Sketch, Figma, and Adobe XD. These tools allow for more detailed and polished wireframes to be created. Example Scenario: A designer might use a digital tool such as Sketch to create a high-fidelity wireframe for a website.
+
+Figma is highly recommended for wireframing, as it is a cloud-based tool that allows for real-time collaboration. It also has a large library of pre-made components that can be used to speed up the design process.
