@@ -13,3 +13,15 @@ There are several key elements that should be considered when creating a wirefra
 3. Functionality: The wireframe should also include placeholders for any interactive elements such as buttons, links, and forms. Example Scenario: A wireframe for a contact form might include placeholders for the form fields and a submit button.
 
 4. Navigation: The wireframe should include a clear and intuitive navigation system that allows users to easily find the content they are looking for. Example Scenario: A wireframe for a website might include a main navigation menu with links to different sections of the site, as well as breadcrumbs to help users navigate back to previous pages.
+
+# Types of Wireframes
+
+There are several different types of wireframes that can be created, depending on the level of detail required:
+
+1. Low-Fidelity Wireframes: These are simple and rough sketches that focus on the overall layout and structure of the website or application. They are often created early in the design process to help plan the overall structure and flow of the site. Example Scenario: A low-fidelity wireframe for a website might include a rough sketch of the header, footer, and main content area, with placeholders for the key elements such as the logo, navigation, and main content.
+
+2. High-Fidelity Wireframes: These are more detailed and polished versions of the wireframe that include more specific design elements such as typography, color schemes, and interactive elements. They are often created later in the design process, once the overall structure and flow of the site have been established. Example Scenario: A high-fidelity wireframe for a website might include detailed typography and color schemes, as well as interactive elements such as buttons and forms.
+
+## Example Wirerame (Airbnb Clone)
+
+The Airbnb clone wireframe is a High-Fidelity wireframe. It includes detailed typography and color schemes, as well as interactive elements such as buttons and forms. The wireframe also includes a clear and intuitive navigation system that allows users to easily find the content they are looking for.
