@@ -39,3 +39,7 @@ Figma is highly recommended for wireframing, as it is a cloud-based tool that al
 # Benefits of Wireframing in Software Development
 
 Wireframing is an important part of the software development process as it helps to plan and organize the content and functionality of the final product. It also helps to identify potential issues early on in the design process, which can save time and money in the long run. It also helps to communicate the design to stakeholders and team members, ensuring that everyone is on the same page and collaborating effectively.
+
+# Wireframing in Practice
+
+Wireframing is an iterative process that involves multiple rounds of feedback and refinement. It is important to involve stakeholders and team members in the wireframing process to ensure that everyone is aligned and that the final product meets the needs of the users. It is also important to test the wireframes with users to gather feedback and make any necessary adjustments. In a hotel booking app, the team initially created a wireframe for the home page, but after testing with users, they realized that the search filters were too complex and confusing. They then simplified the filters and added more visual elements to make the page more engaging. These changes resulted in a significant increase in user engagement and bookings. The role of wireframing in creating user friendly interfaces cannot be overstated. It helps to ensure that the final product is intuitive, easy to use, and meets the needs of the users.
